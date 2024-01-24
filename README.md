@@ -4,4 +4,7 @@ Hướng dẫn sử dụng :
 +Sau khi tải xong thì thêm thư viện vào IDE sử dụng  rồi chạy file
 
 
++Hiện tại chỉ chạy trên file ảnh đã được scan chưa chạy thử ảnh chụp trên máy
+
+
 +Mọi góp ý liên hệ qua email :vanhinh2003@gmail.com 
