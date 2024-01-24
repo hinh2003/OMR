@@ -205,7 +205,7 @@ public class OMR2 {
             Mat ans = processListAns.get(i);
             int tes = Core.countNonZero(ans);
             String mappedAnswer = mapAnswer(i);
-            if(tes > 100){
+            if(tes > 200){
                 answeredStudents.add(ans);
                 System.out.println("Câu trả lời " + (i /4 +1) + ": " + mappedAnswer);
                 System.out.println(tes);
